@@ -1,4 +1,4 @@
-# Statical Learning II - Practica1
+# Statical Learning II - Practicas
 
 **Nombre: José Alejandro López Quel**
 
@@ -8,4 +8,4 @@
 
 **Sección U**
 
-**Práctica 1**
+**Prácticas**
